@@ -1,5 +1,13 @@
 # AutoRent-Back
 
+```mermaid
+classDiagram
+    class Usuario {
+        -email: string
+        -nombre: string
+    }
+```
+
 ## Sistema de Gestion - AutoRent
 
 La empresa **AutoRent** ofrece el servicio de alquiler de autos en varias **ciudades** del pais y necesita un sistema que permita gestionar el **alquiler** de diferentes tipos de **vehiculos**, como **sedanes**, **camionetas**, **SUVs** y **vehiculos utilitarios**. Los **clientes** de la empresa pueden ser **propietarios** que ponen sus autos en alquiler, **usuarios** que desean alquilarlos, o **ambos a la vez**.
