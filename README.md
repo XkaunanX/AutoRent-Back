@@ -1,13 +1,5 @@
 # AutoRent-Back
 
-### Entorno
-
-- **Python**: `3.13.3`
-- **MySQL**: `>=8.0`
-- **Django**: `4.2.x`
-- **Django REST Framework**: `3.14.x`
-- **MySQL Client para Python**: `mysqlclient==2.2.0`
-
 ## Sistema de Gestion - AutoRent
 
 La empresa **AutoRent** ofrece el servicio de alquiler de autos en varias **ciudades** del pais y necesita un sistema que permita gestionar el **alquiler** de diferentes tipos de **vehiculos**, como **sedanes**, **camionetas**, **SUVs** y **vehiculos utilitarios**. Los **clientes** de la empresa pueden ser **propietarios** que ponen sus autos en alquiler, **usuarios** que desean alquilarlos, o **ambos a la vez**.
